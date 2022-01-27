@@ -1,0 +1,17 @@
+Method,Machine Type,Source Hmean,Target Hmean,AUC Hmean,pAUC Hmean
+MN,ToyCar,58.83,53.47,57.18,54.9
+MN,ToyTrain,52.59,47.83,49.98,50.21
+MN,Fan,64.34,64.9,63.07,66.23
+MN,Gearbox,60.63,55.91,61.43,55.24
+MN,Pump,61.74,53.93,61.06,54.46
+MN,Slider,63.58,53.95,60.74,56.18
+MN,Valve,55.66,56.23,57.93,54.1
+MN,Overall,59.35,54.79,58.46,55.57
+MN-BL,ToyCar,57.1,55.8,56.04,56.37
+MN-BL,ToyTrain,58.8,50.7,57.46,51.61
+MN-BL,Fan,63.3,61.5,61.56,63.02
+MN-BL,Gearbox,65.5,60.7,66.7,59.16
+MN-BL,Pump,62.2,57.3,61.89,57.37
+MN-BL,Slider,65.4,52.1,59.26,56
+MN-BL,Valve,53.9,55.1,56.51,52.64
+MN-BL,Overall,60.6,55.9,,
